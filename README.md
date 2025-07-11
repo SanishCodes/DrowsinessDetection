@@ -5,7 +5,7 @@ Real-time Drowsiness Detection using YOLOv5 – A custom object detection model 
 
 | Awake Detection | Drowsy Detection |
 |-----------------|------------------|
-| ![awake](realtime detection screenshots/Awake.png) | ![drowsy](data/demo/drowsy_demo.jpg) |
+| ![awake](realtime%20detection%20screenshots/Awake.png) | ![drowsy](data/demo/drowsy_demo.jpg) |
 
 > *Real-time webcam inference using a custom YOLOv5 model.*
 
